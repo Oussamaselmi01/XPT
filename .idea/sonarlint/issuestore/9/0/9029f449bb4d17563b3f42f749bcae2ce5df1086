@@ -1,0 +1,20 @@
+
+g	java:S112:"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8×éÂ¡ñ1
+Q
+java:S3740"/Provide the parametrized type for this generic.(û’è©øÿÿÿÿ8×éÂ¡ñ1
+e
+java:S1192'"HDefine a constant instead of duplicating this literal "Service" 3 times.(ô ù›8¿à±ñ1
+e
+java:S1192'"HDefine a constant instead of duplicating this literal "Produit" 3 times.(ô ù›8Ù€á±ñ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©ÓŠÿÿÿÿÿ8ÙéÂ¡ñ1
+o	java:S100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆùÊ´ûÿÿÿÿ8òéÂ¡ñ1
+i	java:S100>"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í
+8ùéÂ¡ñ1
+N
+java:S1172>"2Remove this unused method parameter "actionEvent".(í
+8úéÂ¡ñ1
+j	java:S100_"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö’Åğ8ıéÂ¡ñ1
+O
+java:S1172_"2Remove this unused method parameter "actionEvent".(ö’Åğ8ıéÂ¡ñ1
+o
+java:S1128"MRemove this unused import 'com.example.experiencetunisia.Entity.Utilisateur'.(×şïÆüÿÿÿÿ8î¹Ã¡ñ1

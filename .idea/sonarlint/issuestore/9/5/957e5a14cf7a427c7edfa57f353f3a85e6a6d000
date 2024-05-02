@@ -1,0 +1,5 @@
+
+g	java:S112#"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÿÿÍ£ñ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©ÓŠÿÿÿÿÿ8Âì¿£ñ1
+O
+java:S1172'"2Remove this unused method parameter "actionEvent".(Äöïœ8Òì¿£ñ1

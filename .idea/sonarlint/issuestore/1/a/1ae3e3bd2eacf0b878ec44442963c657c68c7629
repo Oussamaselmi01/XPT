@@ -1,0 +1,43 @@
+
+q
+java:S11924"ODefine a constant instead of duplicating this literal "utilisateur_id" 3 times.(Äû«‡úÿÿÿÿ8Ôœ˜¢ñ1
+h
+java:S11921"FDefine a constant instead of duplicating this literal "titre" 3 times.(Ş´›½şÿÿÿÿ8Ôœ˜¢ñ1
+i
+java:S11920"LDefine a constant instead of duplicating this literal "description" 3 times.(ÜøÙÁ8Ôœ˜¢ñ1
+m
+java:S11925"KDefine a constant instead of duplicating this literal "reponse_id" 3 times.(‚Å¨Ëøÿÿÿÿ8Ôœ˜¢ñ1
+p
+java:S11922"NDefine a constant instead of duplicating this literal "date_creation" 3 times.(ÆÜšÿÿÿÿÿ8Ôœ˜¢ñ1
+i
+java:S11923"GDefine a constant instead of duplicating this literal "statut" 3 times.(Ûö“Éøÿÿÿÿ8Ôœ˜¢ñ1
+S
+java:S1141º"5Extract this nested try block into a separate method.(ë×¿²8Õœ˜¢ñ1
+r	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÚÑ¹ÿÿÿÿÿ8Õœ˜¢ñ1
+r	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¤şúÿÿÿÿ8Õœ˜¢ñ1
+r	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äû«‡úÿÿÿÿ8Õœ˜¢ñ1
+r	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Å¨Ëøÿÿÿÿ8Õœ˜¢ñ1
+r	java:S117`"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÚÑ¹ÿÿÿÿÿ8Õœ˜¢ñ1
+r	java:S117f"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¤şúÿÿÿÿ8Õœ˜¢ñ1
+r	java:S117l"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äû«‡úÿÿÿÿ8Õœ˜¢ñ1
+r	java:S117m"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Å¨Ëøÿÿÿÿ8Õœ˜¢ñ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¤şúÿÿÿÿ8Õœ˜¢ñ1
+s	java:S117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äû«‡úÿÿÿÿ8Õœ˜¢ñ1
+s	java:S117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Å¨Ëøÿÿÿÿ8Õœ˜¢ñ1
+
+java:S1488¼"kImmediately return this expression instead of assigning it to the temporary variable "rowsDeletedReponses".(İİŞ©øÿÿÿÿ8Õœ˜¢ñ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ü©ï8×œ˜¢ñ1
+q
+java:S2095B"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(û©Ó‹ÿÿÿÿÿ8‚˜¢ñ1
+q
+java:S2095b"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(û©Ó‹ÿÿÿÿÿ8‚˜¢ñ1
+l
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ŞĞş©8‚˜¢ñ1
+q
+java:S2095R"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(û©Ó‹ÿÿÿÿÿ8‚˜¢ñ1
+q
+java:S2095+"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(û©Ó‹ÿÿÿÿÿ8‚˜¢ñ1
+m
+java:S2095œ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ŞĞş©8‚˜¢ñ1
+q
+java:S2095{"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(û©Ó‹ÿÿÿÿÿ8‚˜¢ñ1

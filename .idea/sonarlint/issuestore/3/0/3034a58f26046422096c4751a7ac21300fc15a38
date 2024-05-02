@@ -1,0 +1,11 @@
+
+g	java:S112/"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ããƒ¡ñ1
+Q
+java:S3740"/Provide the parametrized type for this generic.(û’è©øÿÿÿÿ8Äãƒ¡ñ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©ŽÓŠÿÿÿÿÿ8Åãƒ¡ñ1
+j	java:S100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•“á˜8Ûãƒ¡ñ1
+T
+java:S11723"2Remove this unused method parameter "actionEvent".(µÝöÞøÿÿÿÿ8âãƒ¡ñ1
+j	java:S100V"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö’Åð8äãƒ¡ñ1
+O
+java:S1172V"2Remove this unused method parameter "actionEvent".(ö’Åð8äãƒ¡ñ1
