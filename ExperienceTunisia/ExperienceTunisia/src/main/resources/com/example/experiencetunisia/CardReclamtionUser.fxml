@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane prefHeight="300.0" prefWidth="600.0" style="-fx-background-color: #836f55; -fx-background-radius: 30;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.experiencetunisia.Controlleur.CardReclamtionUser">
+   <children>
+      <Label layoutX="14.0" layoutY="24.0" text="Titre" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Label>
+      <Label layoutX="14.0" layoutY="65.0" text="Description" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Label>
+      <Label layoutX="14.0" layoutY="104.0" text="Date creation" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Label>
+      <Label layoutX="14.0" layoutY="141.0" text="Statut" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Label>
+      <Label fx:id="titre" layoutX="97.0" layoutY="23.0" prefHeight="18.0" prefWidth="97.0" textFill="#919195">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Label>
+      <Label fx:id="desciption" layoutX="97.0" layoutY="64.0" prefHeight="18.0" prefWidth="97.0" textFill="#919195">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Label>
+      <Label fx:id="date" layoutX="97.0" layoutY="103.0" prefHeight="18.0" prefWidth="97.0" textFill="#919195">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Label>
+      <Label fx:id="statut" layoutX="97.0" layoutY="140.0" prefHeight="18.0" prefWidth="97.0" textFill="#919195">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Label>
+      <Label fx:id="response" layoutX="215.0" layoutY="23.0" prefHeight="18.0" prefWidth="374.0" textFill="#919195">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Label>
+      <Button fx:id="btnmod" layoutX="90.0" layoutY="225.0" mnemonicParsing="false" onAction="#modifier" style="-fx-background-radius: 30;" text="Modifier">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Button>
+      <Button fx:id="btnsupp" layoutX="369.0" layoutY="225.0" mnemonicParsing="false" onAction="#supprimer" style="-fx-background-radius: 30;" text="supprimer">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>
